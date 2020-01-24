@@ -1,0 +1,4 @@
+include ':app'
+//project(':extractor').projectDir = new File(settingsDir, '.\\NewPipeExtractor\\extractor')
+//project(':timeago-parser').projectDir = new File(settingsDir, '.\\NewPipeExtractor\\timeago-parser')
+rootProject.name='ExoMultiQuality'
